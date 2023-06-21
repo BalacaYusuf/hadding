@@ -1,0 +1,56 @@
+
+
+.change{
+
+    border: 1px solid black;
+    background-color: brown;
+    margin-bottom: 40px;  /*yuxaridan bosluq*/
+    margin-top: 40px ;
+    margin-left: 60px;
+}
+#second{
+    border: 1px solid black;
+    background-color: rgb(42, 165, 63);
+    padding: 70px;
+
+}
+.link a{
+    color: brown;
+    text-decoration: none;
+}
+.link a:hover{ /*uzerine gelende isle*/
+    color: blue;
+    text-decoration: underline;
+}
+a{
+    color: brown;
+    text-decoration: none;
+}
+.link a:active{
+    color: rgb(198, 228, 65);
+    background-color: yellow;
+    text-decoration: none;
+}
+
+.auto{
+  border : solid;
+
+  color:rgb(74, 40, 199);
+
+  margin: 50px;
+  padding: 40px;
+  
+  margin-left: auto;
+}
+.special{
+    border: solid;
+    margin: 50px;
+    padding: 50;
+}
+.sub-special{
+    margin: inherit;
+    padding:inherit;
+}
+.important{
+    color: blue;
+}
